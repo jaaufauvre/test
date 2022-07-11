@@ -1,3 +1,3 @@
-function log(msg) {
+function my_function(msg) {
    console.log(msg)
 }
